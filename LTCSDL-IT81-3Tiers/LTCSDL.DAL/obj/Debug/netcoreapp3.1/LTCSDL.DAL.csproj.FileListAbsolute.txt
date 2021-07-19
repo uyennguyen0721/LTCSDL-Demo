@@ -1,0 +1,8 @@
+D:\Lập trình CSDL (Thầy Hiếu)\LTCSDL-Demo\LTCSDL-IT81-3Tiers\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.deps.json
+D:\Lập trình CSDL (Thầy Hiếu)\LTCSDL-Demo\LTCSDL-IT81-3Tiers\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.dll
+D:\Lập trình CSDL (Thầy Hiếu)\LTCSDL-Demo\LTCSDL-IT81-3Tiers\LTCSDL.DAL\bin\Debug\netcoreapp3.1\LTCSDL.DAL.pdb
+D:\Lập trình CSDL (Thầy Hiếu)\LTCSDL-Demo\LTCSDL-IT81-3Tiers\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.AssemblyInfoInputs.cache
+D:\Lập trình CSDL (Thầy Hiếu)\LTCSDL-Demo\LTCSDL-IT81-3Tiers\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.AssemblyInfo.cs
+D:\Lập trình CSDL (Thầy Hiếu)\LTCSDL-Demo\LTCSDL-IT81-3Tiers\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.csproj.CoreCompileInputs.cache
+D:\Lập trình CSDL (Thầy Hiếu)\LTCSDL-Demo\LTCSDL-IT81-3Tiers\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.dll
+D:\Lập trình CSDL (Thầy Hiếu)\LTCSDL-Demo\LTCSDL-IT81-3Tiers\LTCSDL.DAL\obj\Debug\netcoreapp3.1\LTCSDL.DAL.pdb
