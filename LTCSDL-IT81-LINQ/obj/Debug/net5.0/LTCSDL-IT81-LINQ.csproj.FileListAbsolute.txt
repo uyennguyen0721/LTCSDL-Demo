@@ -1,0 +1,16 @@
+D:\Lập trình CSDL (Thầy Hiếu)\LTCSDL-Demo\LTCSDL-IT81-LINQ\bin\Debug\net5.0\LTCSDL-IT81-LINQ.exe
+D:\Lập trình CSDL (Thầy Hiếu)\LTCSDL-Demo\LTCSDL-IT81-LINQ\bin\Debug\net5.0\LTCSDL-IT81-LINQ.deps.json
+D:\Lập trình CSDL (Thầy Hiếu)\LTCSDL-Demo\LTCSDL-IT81-LINQ\bin\Debug\net5.0\LTCSDL-IT81-LINQ.runtimeconfig.json
+D:\Lập trình CSDL (Thầy Hiếu)\LTCSDL-Demo\LTCSDL-IT81-LINQ\bin\Debug\net5.0\LTCSDL-IT81-LINQ.runtimeconfig.dev.json
+D:\Lập trình CSDL (Thầy Hiếu)\LTCSDL-Demo\LTCSDL-IT81-LINQ\bin\Debug\net5.0\LTCSDL-IT81-LINQ.dll
+D:\Lập trình CSDL (Thầy Hiếu)\LTCSDL-Demo\LTCSDL-IT81-LINQ\bin\Debug\net5.0\ref\LTCSDL-IT81-LINQ.dll
+D:\Lập trình CSDL (Thầy Hiếu)\LTCSDL-Demo\LTCSDL-IT81-LINQ\bin\Debug\net5.0\LTCSDL-IT81-LINQ.pdb
+D:\Lập trình CSDL (Thầy Hiếu)\LTCSDL-Demo\LTCSDL-IT81-LINQ\obj\Debug\net5.0\LTCSDL-IT81-LINQ.csproj.AssemblyReference.cache
+D:\Lập trình CSDL (Thầy Hiếu)\LTCSDL-Demo\LTCSDL-IT81-LINQ\obj\Debug\net5.0\LTCSDL-IT81-LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình CSDL (Thầy Hiếu)\LTCSDL-Demo\LTCSDL-IT81-LINQ\obj\Debug\net5.0\LTCSDL-IT81-LINQ.AssemblyInfoInputs.cache
+D:\Lập trình CSDL (Thầy Hiếu)\LTCSDL-Demo\LTCSDL-IT81-LINQ\obj\Debug\net5.0\LTCSDL-IT81-LINQ.AssemblyInfo.cs
+D:\Lập trình CSDL (Thầy Hiếu)\LTCSDL-Demo\LTCSDL-IT81-LINQ\obj\Debug\net5.0\LTCSDL-IT81-LINQ.csproj.CoreCompileInputs.cache
+D:\Lập trình CSDL (Thầy Hiếu)\LTCSDL-Demo\LTCSDL-IT81-LINQ\obj\Debug\net5.0\LTCSDL-IT81-LINQ.dll
+D:\Lập trình CSDL (Thầy Hiếu)\LTCSDL-Demo\LTCSDL-IT81-LINQ\obj\Debug\net5.0\ref\LTCSDL-IT81-LINQ.dll
+D:\Lập trình CSDL (Thầy Hiếu)\LTCSDL-Demo\LTCSDL-IT81-LINQ\obj\Debug\net5.0\LTCSDL-IT81-LINQ.pdb
+D:\Lập trình CSDL (Thầy Hiếu)\LTCSDL-Demo\LTCSDL-IT81-LINQ\obj\Debug\net5.0\LTCSDL-IT81-LINQ.genruntimeconfig.cache
