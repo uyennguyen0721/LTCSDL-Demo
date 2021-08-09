@@ -540,23 +540,119 @@ namespace LTCSDL_IT81_LINQ
 			var query11 = (from n in nums
 						 select n).Take(3);
 
-			foreach (int num in query11)
+			foreach (int num1 in query11)
 			{
-				Console.WriteLine(num);
+				Console.WriteLine(num1);
 			}
 
 			//SLide 70
 			var query12 = (from n in nums
-						 select n).Take(3);
+						 select n).Skip(3);
 
-			foreach (int num in query12)
+			foreach (int num1 in query12)
 			{
-				Console.WriteLine(num);
+				Console.WriteLine(num1);
 			}
 
+			// Slide 71
+			var query13 = (from n in nums
+						 select n).TakeWhile(n => n % 5 != 0);
 
+			foreach (int num1 in query13)
+			{
+				Console.WriteLine(num1);
+			}
 
+			// SLide 72
+			List<string> myCars3 = new List<String> { "Ford", "Honda", "Toyota" };
+			List<string> yourCars3 = new List<String> { "BMW", "Toyota", "Hyundai" };
 
+			var carConcat3 = (from c in myCars3 select c).Concat(from c2 in yourCars3 select c2);
+
+			foreach (string s in carConcat3)
+				Console.WriteLine(s);
+
+			// Slide 73
+			double[] winterTemps = { 2.0, -21.3, 8, -4, 0, 8.2 };
+
+			Console.WriteLine("Max temp: {0}",
+				(from t in winterTemps select t).Max());
+
+			Console.WriteLine("Min temp: {0}",
+				(from t in winterTemps select t).Min());
+
+			Console.WriteLine("Average temp: {0}",
+				(from t in winterTemps select t).Average());
+
+			Console.WriteLine("Sum of all temps: {0}",
+				(from t in winterTemps select t).Sum());
+
+			Console.WriteLine("Count all temps: {0} ", (from t in winterTemps select t).Count());
+
+			// SLide 75
+			int[] numbers = { 10, 20, 30, 40, 1, 2, 3, 8 };
+
+			// Get data RIGHT NOW as int[].
+			int[] subsetAsIntArray = (from i in numbers
+									  where i < 10
+									  select i).ToArray<int>();
+
+			// Get data RIGHT NOW as List<int>.
+			List<int> subsetAsListOfInts = (from i in numbers
+											where i < 10
+											select i).ToList<int>();
+
+			int[] subsetAsIntArray1 = (from i in numbers where i < 10 select i).ToArray();
+
+			// SLide 77
+			var values = Enumerable.Range(1, 20);
+			foreach (var v in values)
+			{
+				Console.WriteLine("{0} ", v);
+			}
+
+			// SLide 78
+			var values1 = Enumerable.Empty<string>();
+			foreach (var v in values1)
+			{
+				Console.WriteLine("{0} ", v);
+			}
+
+			// SLide 79
+			IEnumerable<int> values2 = Enumerable.Repeat(1, 3);
+			foreach (int v in values2)
+			{
+				Console.WriteLine(v);
+			}
+
+			// SLide 81
+			List<int> nums4 = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+			int first = nums4.First();
+			//int first = nums4.First(n => n % 2 == 0);
+			Console.WriteLine(first);
+
+			// Slide 82
+			string[] fruits1 = { "orange" };
+			string fruit1 = fruits1.Single();
+			Console.WriteLine(fruit1);
+
+			// Slide 83
+			string[] fruits2 = { "orange", "apple" };
+			string fruit2 = null;
+			try
+			{
+				fruit2 = fruits2.Single();
+			}
+			catch (System.InvalidOperationException)
+			{
+				Console.WriteLine("The collection does not contain exactly one element.");
+			}
+			Console.WriteLine(fruit2);
+
+			// Slide 85
+			List<int> nums5 = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+			int num = nums5.ElementAt(2);
+			Console.WriteLine(num);
 
 		}
 
